@@ -1,3 +1,8 @@
+Forked on June 22. 2017 - 
+Plans are to adapt this code to auto adjust the frequency 
+for linear and FM satellite work, enabling semi hands free operation.
+
+
 Arduino FT 817
 --------------
 This is a standalone library for controlling the YAESU FT 817 
